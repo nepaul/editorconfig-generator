@@ -1,6 +1,6 @@
 # EditorConfigGenerate
 
-Generate common editor config file. 
+Generate a simple editor config file for usual situation. 
 As follows:
 
 ```
