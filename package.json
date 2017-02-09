@@ -2,7 +2,7 @@
     "name": "editorconfiggenerator",
     "displayName": "EditorConfigGenerator",
     "description": "",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "nepaul",
     "engines": {
         "vscode": "^1.5.0"

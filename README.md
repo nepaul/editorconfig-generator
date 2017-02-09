@@ -25,6 +25,10 @@ trim_trailing_whitespace = false
 ext install editorconfiggenerator
 ```
 
+## Usage
+
+1. launch the Command Pallete (**Ctrl + Shift + P** or **Cmd + Shift + P**) 
+2. type **GenerateEditorConfig**, then it will generate a .editorconfig in your root project directory
 
 [Visual Studio Code]: https://code.visualstudio.com/
 [EditorConfig]: http://editorconfig.org/
